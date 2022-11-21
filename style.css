@@ -1,9 +1,5 @@
-.tela{
-position: relative;
-width: 1380px;
-height: 840px;
-
-background: rgba(250, 253, 214, 0.3);
+body{
+    background: rgba(250, 253, 214, 0.3);  
 }
 
 .navigation{
